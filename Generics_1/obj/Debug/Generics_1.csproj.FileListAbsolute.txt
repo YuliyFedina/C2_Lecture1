@@ -1,0 +1,5 @@
+D:\Обучение C#\Второй курс\Generics\Generics_1\obj\Debug\Generics_1.csprojResolveAssemblyReference.cache
+D:\Обучение C#\Второй курс\Generics\Generics_1\bin\Debug\Generics_1.exe
+D:\Обучение C#\Второй курс\Generics\Generics_1\bin\Debug\Generics_1.pdb
+D:\Обучение C#\Второй курс\Generics\Generics_1\obj\Debug\Generics_1.exe
+D:\Обучение C#\Второй курс\Generics\Generics_1\obj\Debug\Generics_1.pdb

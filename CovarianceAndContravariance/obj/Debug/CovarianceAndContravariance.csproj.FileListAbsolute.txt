@@ -1,0 +1,12 @@
+D:\Обучение C#\Второй курс\Generics\CovarianceAndContravariance\bin\Debug\CovarianceAndContravariance.exe
+D:\Обучение C#\Второй курс\Generics\CovarianceAndContravariance\bin\Debug\CovarianceAndContravariance.pdb
+D:\Обучение C#\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.csprojResolveAssemblyReference.cache
+D:\Обучение C#\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.exe
+D:\Обучение C#\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.pdb
+F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.exe
+F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.pdb
+F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\CovarianceAndContravariance\bin\Debug\CovarianceAndContravariance.exe
+F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\CovarianceAndContravariance\bin\Debug\CovarianceAndContravariance.pdb
+F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.csprojResolveAssemblyReference.cache
+\\uk-infr02\Public\Обучение\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.exe
+\\uk-infr02\Public\Обучение\Второй курс\Generics\CovarianceAndContravariance\obj\Debug\CovarianceAndContravariance.pdb

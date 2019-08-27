@@ -1,0 +1,7 @@
+F:\Generics_6\bin\Debug\Generics_6.exe
+F:\Generics_6\bin\Debug\Generics_6.pdb
+F:\Generics_6\obj\Debug\Generics_6.csprojResolveAssemblyReference.cache
+F:\Generics_6\obj\Debug\Generics_6.exe
+F:\Generics_6\obj\Debug\Generics_6.pdb
+\\uk-infr02\Public\Обучение\Второй курс\Generics\Generics_6.1\obj\Debug\Generics_6.exe
+\\uk-infr02\Public\Обучение\Второй курс\Generics\Generics_6.1\obj\Debug\Generics_6.pdb

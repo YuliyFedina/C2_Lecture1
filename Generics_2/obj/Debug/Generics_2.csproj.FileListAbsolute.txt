@@ -1,0 +1,7 @@
+D:\Обучение C#\Второй курс\Generics\Generics_2\bin\Debug\Generics_2.exe
+D:\Обучение C#\Второй курс\Generics\Generics_2\bin\Debug\Generics_2.pdb
+D:\Обучение C#\Второй курс\Generics\Generics_2\obj\Debug\Generics_2.exe
+D:\Обучение C#\Второй курс\Generics\Generics_2\obj\Debug\Generics_2.pdb
+D:\Обучение C#\Второй курс\Generics\Generics_2\obj\Debug\Generics_2.csprojResolveAssemblyReference.cache
+\\uk-infr02\Public\Обучение\Второй курс\Generics\Generics_2\obj\Debug\Generics_2.exe
+\\uk-infr02\Public\Обучение\Второй курс\Generics\Generics_2\obj\Debug\Generics_2.pdb
