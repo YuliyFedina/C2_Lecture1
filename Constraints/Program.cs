@@ -12,11 +12,9 @@ namespace Constraints
             int a = 1;
             string b = null;
 
-            Console.WriteLine(GetStringReference(a));
             Console.WriteLine(GetStringValue(a));
 
             Console.WriteLine(GetStringReference(b));
-            Console.WriteLine(GetStringValue(b));
 
             var array = ArrayExtensions.Generate<string>(5);
 
@@ -29,9 +27,12 @@ namespace Constraints
             var list = new List<int>();
             var dict = new Dictionary<string, int>();
 
+            Console.ReadLine();
+
         }
 
         private static string GetStringReference<T>(T value)
+        where T: class 
         {
             if (value == null)
                 return null;
@@ -39,9 +40,8 @@ namespace Constraints
         }
 
         private static string GetStringValue<T>(T value)
+        where T: struct
         {
-            if (value == null)
-                return null;
             return value.ToString();
         }
 

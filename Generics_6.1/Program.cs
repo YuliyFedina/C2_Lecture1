@@ -8,17 +8,19 @@ namespace Generics_6
     {
         static void Main(string[] args)
         {
-            var user = new User { Id = 1, Name = null };
+            var user = new User { Id = 1, Name = "Александр" };
 
             var phone = new Phone { Id = 1, PhoneCode = "123", Value = "123124" };
 
             var userRepository = GetRepository<User, UserValidator>();
             userRepository.Add(user);
 
-            //var contactRepository = GetRepository<Contact>();
-            //contactRepository.Add(phone);
+            var contactRepository = GetRepository<Contact, ContactValidator>();
+            contactRepository.Add(phone);
 
-            Console.WriteLine(userRepository.GetById(1));
+            Console.WriteLine($"{userRepository.GetById(1)}");
+            Console.WriteLine($"{contactRepository.GetById(1)}");
+            Console.ReadLine();
         }
 
         private static IRepository<TEntity, TValidator> GetRepository<TEntity, TValidator>()

@@ -21,7 +21,7 @@ namespace Generics_2.Data
         {
             //return _storage.FirstOrDefault(o => o.Id == id);
             //TODO: как-то реализовать поиск по Id
-            return null;
+            return default(TEntity);
         }
 
         public TEntity[] GetAll()

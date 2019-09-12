@@ -6,7 +6,7 @@ namespace Generics_2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var user = new User { Id = 1, Name = "Name" };
 
@@ -23,14 +23,15 @@ namespace Generics_2
                 var contact = (Contact)value;
                 Console.WriteLine(contact.Value);
             }
-
-            contactRepository.Add(user);
+            contactRepository.Add(phone);
 
             foreach (var value in contactRepository.GetAll())
             {
                 var contact = (Contact)value;
                 Console.WriteLine(contact.Value);
             }
+
+            Console.ReadLine();
         }
     }
 }

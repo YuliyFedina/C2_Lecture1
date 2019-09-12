@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\ContactValidator.cs" />
     <Compile Include="Data\EntityRepository.cs" />
     <Compile Include="Data\IRepository.cs" />
     <Compile Include="Data\IValidator.cs" />

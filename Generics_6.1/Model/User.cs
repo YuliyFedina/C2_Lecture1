@@ -13,5 +13,10 @@ namespace Generics_6.Model
         {
             Contacts = new HashSet<Contact>();
         }
+
+        public override string ToString()
+        {
+            return $"Id={Id}, Name={Name}";
+        }
     }
 }

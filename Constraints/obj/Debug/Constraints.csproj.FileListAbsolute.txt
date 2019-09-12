@@ -5,3 +5,9 @@ D:\Обучение C#\Второй курс\Generics\Constraints\obj\Debug\Cons
 D:\Обучение C#\Второй курс\Generics\Constraints\obj\Debug\Constraints.pdb
 F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\Constraints\obj\Debug\Constraints.exe
 F:\Dropbox\Dropbox\Обучение\Второй курс\Generics\Constraints\obj\Debug\Constraints.pdb
+C:\Users\yu.belova\source\repos\Lectures\SecondСourse\C2_Lecture1\Constraints\bin\Debug\Constraints.exe
+C:\Users\yu.belova\source\repos\Lectures\SecondСourse\C2_Lecture1\Constraints\bin\Debug\Constraints.pdb
+C:\Users\yu.belova\source\repos\Lectures\SecondСourse\C2_Lecture1\Constraints\obj\Debug\Constraints.csprojAssemblyReference.cache
+C:\Users\yu.belova\source\repos\Lectures\SecondСourse\C2_Lecture1\Constraints\obj\Debug\Constraints.csproj.CoreCompileInputs.cache
+C:\Users\yu.belova\source\repos\Lectures\SecondСourse\C2_Lecture1\Constraints\obj\Debug\Constraints.exe
+C:\Users\yu.belova\source\repos\Lectures\SecondСourse\C2_Lecture1\Constraints\obj\Debug\Constraints.pdb

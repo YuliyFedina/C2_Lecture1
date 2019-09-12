@@ -6,20 +6,20 @@ namespace Generics_1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var user = new User {Id = 1, Name = "Name"};
 
             var phone = new Phone {Id = 1, PhoneCode = "123", Value = "123124"};
 
-            var userRepository = new UserRepository();
+            var userRepository = new Repository<User>();
             userRepository.Add(user);
 
-            var contactRepository = new ContactRepository();
+            var contactRepository = new Repository<Contact>();
             contactRepository.Add(phone);
-
-
-            Console.WriteLine(contactRepository.GetById(1));
+            
+            Console.WriteLine($"{contactRepository.GetById(1)}");
+            Console.ReadLine();
         }
     }
 }

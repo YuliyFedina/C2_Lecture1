@@ -42,10 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\ContactRepository.cs" />
-    <Compile Include="Data\UserRepository.cs" />
+    <Compile Include="Data\Repository.cs" />
     <Compile Include="Model\Contact.cs" />
     <Compile Include="Model\Email.cs" />
+    <Compile Include="Model\IEntity.cs" />
     <Compile Include="Model\Phone.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Program.cs" />
