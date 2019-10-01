@@ -2,7 +2,7 @@
 
 namespace Generics_6.Data
 {
-    internal class ContactValidator:IValidator<Contact>
+    internal class ContactValidator: IValidator<Contact>
     {
         public bool Validate(Contact entity)
         {

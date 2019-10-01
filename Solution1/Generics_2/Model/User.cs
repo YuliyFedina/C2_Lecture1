@@ -2,7 +2,7 @@
 
 namespace Generics_2.Model
 {
-    internal class User
+    internal class User : IEntity
     {
         public long Id { get; set; }
         public string Name { get; set; }

@@ -18,12 +18,6 @@ namespace Constraints
 
             var array = ArrayExtensions.Generate<string>(5);
 
-            foreach (var t in array)
-            {
-                if (t == null)
-                    throw new ArgumentNullException();
-            }
-
             var list = new List<int>();
             var dict = new Dictionary<string, int>();
 
