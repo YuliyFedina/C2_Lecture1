@@ -1,6 +1,0 @@
-D:\Обучение C#\Второй курс\Generics\Generics_3\bin\Debug\Generics_3.exe
-D:\Обучение C#\Второй курс\Generics\Generics_3\bin\Debug\Generics_3.pdb
-D:\Обучение C#\Второй курс\Generics\Generics_3\obj\Debug\Generics_3.exe
-D:\Обучение C#\Второй курс\Generics\Generics_3\obj\Debug\Generics_3.pdb
-D:\Обучение C#\Второй курс\Generics\Generics_4\obj\Debug\Generics_3.exe
-D:\Обучение C#\Второй курс\Generics\Generics_4\obj\Debug\Generics_3.pdb
